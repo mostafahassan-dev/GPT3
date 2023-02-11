@@ -4,7 +4,7 @@
 ### Initial Figma design: 
 - https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
 ### Demo:
-- https://mostafa-zewail77.github.io/To-Do-List/
+- gpt-3-six-sage.vercel.app
 
 
 
