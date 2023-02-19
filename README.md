@@ -7,5 +7,4 @@ Initial Figma design:
 <a href="https://gpt-3-mostafa-zewail77.vercel.app/"> Demo</a>
 
 
-
-![GPT-3 Website Mockup](https://user-images.githubusercontent.com/image.png)
+![GPT-3 Website Mockup](https://user-images.githubusercontent.com/104537380/219951850-fb5450b4-59a2-4bf0-89f3-1e4cac38b855.png)
