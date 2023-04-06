@@ -1,7 +1,8 @@
 ## Simple template on the topic of Artificial Intelligence project.
- a fully responsive, transform a Figma design into a fully functioning website & to improve CSS skills.
 
-Initial Figma design: 
+Developed a landing page using React for the GPT-3 language model, showcasing its capabilities and features. The landing page includes a responsive design, interactive sections, and clear call-to-actions.
+
+## Initial Figma design: 
 - https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
 
 ## <a href="https://gpt-3-mh7.vercel.app/"> Demo</a>
